@@ -1,0 +1,57 @@
+1. Before doing any other investigation, list two or three questions that this infographic
+and explanation of methodology raise in your mind.
+
+Ans- Q1) How does Google search data actually reflect what people eat?
+     Q2) Are all states equally represented in the data?
+
+
+2. Where can you find Google Trends search data? Provide the URL.
+
+Ans- 
+
+
+3. The article concluded that “milkshakes take the crown as the ultimate breakup food,
+topping the list in six states.” Pull up Google Trends data on Milkshake (beverage) and
+change the date range to February 1, 2024 through February 28, 2025.
+
+a) What is the highest peak recorded in the line chart for “Interest over time”?
+
+Ans- 100
+
+b) What is the lowest dip recorded?
+Ans- 58
+
+4. At the top next to the box for “Milkshake,” there is a plus sign to add another search
+term. Click the plus sign to add a search for Hamburger (Food).
+
+a) What is the highest peak recorded for searches using Hamburger? What is the
+lowest dip? 
+Highest peak is 100, lowest peak is 56
+
+b) What happened to the line for Milkshake? What do the high and low look like now?
+Ans- Milkshake line has been changed.
+
+5. Why did the line for Milkshake change? Hint: Click on the icon next to “Interest
+over time” for more information about how trend results are displayed.
+
+
+6. Add a third term to your search, this time for Breakup (Topic).
+
+a) Do you see any patterns that suggest a relationship between searches for Breakup
+and Hamburger?
+Ans- No i dont see any pattern thats suggest relationship between searches for breakup and hamburger
+
+b) How about between Breakup and Milkshake?
+Ans- No relationship between breakup and milkshake 
+
+7. What does all of this suggest about the reliability of the conclusions reached in the
+article?
+Ans- The conclusions may not be fully reliable because search interest does not necessarily reflect actual behavior, and the data is relative rather than absolute
+
+8.Notice that this view includes a section for “Compared breakdown by subregion.”
+a) What was the top state by interest for Milkshake?
+Ans-New Jersey 
+
+b) What was the top state by interest for Hamburger?
+Ans-South Dakota
+
