@@ -1,0 +1,26 @@
+1. What conclusion can you reach about the responses to this question?
+Most students prepare for class by getting their materials ready, such as notebooks, laptops, and ensuring their microphone and camera are working. Many students also log in early to avoid technical issues.
+
+2. Is the default summary or visualization helpful? How could it be improved?
+The default summary is helpful for quickly understanding general trends, but it could be improved by showing percentages and clearer comparisons between responses.
+
+3. For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+The “Other” responses can be found in the detailed response section. They are harder to analyze because everyone writes differently, making it difficult to group similar answers together.
+
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+Written responses vary a lot in wording and detail, which makes it harder to identify patterns without manually reading and grouping similar responses.
+
+5. Now that you can see the responses, how might you recommend rephrasing this question or the response options in a future survey?
+I would add more multiple-choice options for common answers  to make responses easier to analyze, while still allowing an optional written response.
+
+6. Is there anything that surprised you about the survey responses?
+I was surprised that many students rely heavily on pen and paper for note-taking instead of using digital tools.
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to include in your morning routine, or any questions that you are also curious about?
+I might try logging in earlier and checking my setup before class to avoid technical issues. I am also interested in learning more about SQL and how it is used.
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help in how you approach teaching this class?
+The instructor can see that students prefer structured preparation and may benefit from reminders or guidance on how to get ready for class and take effective notes.
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to make this survey anonymous? Why or why not?
+Making the survey anonymous is helpful because students are more likely to give honest answers. However, it makes it harder to follow up with specific students who may need help.
