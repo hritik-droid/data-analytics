@@ -1,0 +1,80 @@
+[
+  {
+    "Id": 1,
+    "Start time": "2026-04-10 13:58:37",
+    "Completion time": "2026-04-10 13:59:17",
+    "Email": "anonymous",
+    "Name": "",
+    "How would you rate your overall experience?": 4,
+    "How often do you visit our restaurant?": "Monthly",
+    "What is your favorite menu item?": "hamburger",
+    "How would you rate the quality of our food?": "Average",
+    "What type of rewards would you prefer?": "Discounts",
+    "Do you have any additional feedback or suggestions?": "staff was rude"
+  },
+  {
+    "Id": 2,
+    "Start time": "2026-04-10 14:52:56",
+    "Completion time": "2026-04-10 14:53:19",
+    "Email": "anonymous",
+    "Name": "",
+    "How would you rate your overall experience?": 5,
+    "How often do you visit our restaurant?": "Daily",
+    "What is your favorite menu item?": "Cheesburger",
+    "How would you rate the quality of our food?": "Average",
+    "What type of rewards would you prefer?": "Free Items",
+    "Do you have any additional feedback or suggestions?": ""
+  },
+  {
+    "Id": 3,
+    "Start time": "2026-04-10 14:58:22",
+    "Completion time": "2026-04-10 14:59:00",
+    "Email": "anonymous",
+    "Name": "",
+    "How would you rate your overall experience?": 4,
+    "How often do you visit our restaurant?": "Monthly",
+    "What is your favorite menu item?": "house burger",
+    "How would you rate the quality of our food?": "Excellent",
+    "What type of rewards would you prefer?": "Free Items",
+    "Do you have any additional feedback or suggestions?": ""
+  },
+  {
+    "Id": 4,
+    "Start time": "2026-04-10 17:42:46",
+    "Completion time": "2026-04-10 17:44:04",
+    "Email": "anonymous",
+    "Name": "",
+    "How would you rate your overall experience?": 5,
+    "How often do you visit our restaurant?": "Yearly",
+    "What is your favorite menu item?": "Smash Cheeseburger",
+    "How would you rate the quality of our food?": "Excellent",
+    "What type of rewards would you prefer?": "Discounts",
+    "Do you have any additional feedback or suggestions?": "The customer service was sub-par"
+  },
+  {
+    "Id": 5,
+    "Start time": "2026-04-10 20:38:27",
+    "Completion time": "2026-04-10 20:38:49",
+    "Email": "anonymous",
+    "Name": "",
+    "How would you rate your overall experience?": 4,
+    "How often do you visit our restaurant?": "Yearly",
+    "What is your favorite menu item?": "The Burger",
+    "How would you rate the quality of our food?": "Excellent",
+    "What type of rewards would you prefer?": "Free Items",
+    "Do you have any additional feedback or suggestions?": ""
+  },
+  {
+    "Id": 6,
+    "Start time": "2026-04-12 14:49:06",
+    "Completion time": "2026-04-12 14:49:21",
+    "Email": "anonymous",
+    "Name": "",
+    "How would you rate your overall experience?": 5,
+    "How often do you visit our restaurant?": "Yearly",
+    "What is your favorite menu item?": "The fries",
+    "How would you rate the quality of our food?": "Average",
+    "What type of rewards would you prefer?": "Free Items",
+    "Do you have any additional feedback or suggestions?": ""
+  }
+]
