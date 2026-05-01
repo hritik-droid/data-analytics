@@ -74,8 +74,8 @@ The chart highlights fluctuations in revenue and helps identify peak sales perio
 
 ## Files Included
 
-* `lastname_sales_analysis.sql` — SQL queries used for analysis
-* `lastname_territory_chart.xlsx` — Excel PivotChart visualization
+* `zope_sales_analysis.sql` — SQL queries used for analysis
+* `zope_territory_chart.xlsx` — Excel PivotChart visualization
 
 ---
 
