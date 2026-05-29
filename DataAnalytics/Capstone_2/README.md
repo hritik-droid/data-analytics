@@ -27,5 +27,8 @@ This project analyzes sales data for EmporiUm, a fictional bookstore and retail 
 - Matplotlib
 - Jupyter Notebook
 
+## Presentation Link
+https://drive.google.com/file/d/1em1TGY5XrMA0GQQfbxUanW1Lud3ew65w/view?usp=drive_link
+
 ## Author
 Hritik Zope
